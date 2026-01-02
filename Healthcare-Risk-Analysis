@@ -1,0 +1,18 @@
+healthcare-risk-analysis/
+│
+├── data/
+│   └── patient_data.csv
+│
+├── sql/
+│   └── risk_analysis.sql
+│
+├── python/
+│   └── risk_scoring.ipynb
+│
+├── powerbi/
+│   └── healthcare_risk_dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
